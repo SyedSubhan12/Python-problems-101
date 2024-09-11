@@ -1,0 +1,11 @@
+name,year,author,available
+Introduction to ML,1980,Arthur Samuel,yes
+Deep Learning Basics,2015,Ian Goodfellow,yes
+Data Science with Python,2018,Joel Grus,no
+Artificial Intelligence,1993,Stuart Russell,yes
+Machine Learning Yearning,2017,Andrew Ng,no
+Python for Data Analysis,2012,Wes McKinney,yes
+Neural Networks and Deep Learning,2016,Michael Nielsen,no
+Pattern Recognition,2009,Christopher Bishop,yes
+The Elements of Statistical Learning,2001,Trevor Hastie,no
+Hands-On Machine Learning,2017,Aurélien Géron,yes
